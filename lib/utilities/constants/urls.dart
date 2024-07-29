@@ -1,5 +1,5 @@
 // base url
-const String baseUrl = "https://authenticator-api-v1ck.onrender.com/api/";
+const String baseUrl = "https://authenticator-api-v1ck.onrender.com/api/auth/";
 
 // authenticator APK update
 const String latestApkUrl =
